@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hellythakar
 - 👀 I’m interested in in data science because I enjoy things from data and identifying patterns, building machine learning models and want to use these skills to help organisations to make data-driven decisions and recognize new market opportunities.
 - 🌱 I’m currently learning machine learning, artifical learning, machine learning ops, data management, deep neural networks and graph neural networks
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me LinkedIn
 
 <!---
