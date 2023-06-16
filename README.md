@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hellythakar
-- 👀 I’m interested in data science because I enjoy things from data and identifying patterns, building machine learning models and want to use these skills to help organisations to make data-driven decisions and recognise new market opportunities.
-- 🌱 I’m currently learning machine learning, artifical intelligence, machine learning ops, data management, deep neural networks and graph neural networks
+- 👀 I’m passionate about AI and ML, driving innovation, and solving complex problems to make a positive impact. Thriving on continuous learning, I seek interdisciplinary collaborations at the forefront of technological advancements, I embrace challenges to drive meaningful change.
+- 🌱 I’m currently learning machine learning, artificial intelligence, machine learning ops, data management, deep neural networks and graph neural networks
 
 <!---
 hellythakar/hellythakar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
